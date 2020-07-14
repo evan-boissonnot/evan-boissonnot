@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**evan-boissonnot/evan-boissonnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--- >
 
 Tombé dans le code étant tout petit, j'apprends du code, et le code se nourrit de mes apprentissages !
 Curieux par nature : j'aime découvrir des nouvelles technologies, des nouveaux frameworks, patterns, ...
@@ -27,6 +24,4 @@ Par mon mail perso : evan@boissonnot.fr
 # ⚡ Du fun, du plaisir
 Passioné de musique métal et de salsa ! :D
 Danseur des musiques cubaines
-
-Here are some ideas to get you started:
 
