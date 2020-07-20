@@ -22,6 +22,7 @@ Via mon entreprise : DevToBeCurious (https://devtobecurious.com/) : contact@devt
 Par mon mail perso : evan@boissonnot.fr
 
 # ⚡ Du fun, du plaisir
-Passioné de musique métal et de salsa ! :D
-Danseur des musiques cubaines
+Passioné de musique métal et de salsa ! 😃
+
+Danseur de métal cubain 😂
 
